@@ -2,7 +2,8 @@
 Tool designed to use during live NBA fantasy draft.
 
 # Initialization
-Download Playeers.csv file
+Most optimal to use on Jupyter Notebook / Google Colab
+Download Players.csv file
 Run all cells
 
 # Interpretation
