@@ -3,8 +3,10 @@ Tool designed to use during live NBA fantasy draft.
 
 # Initialization
 Most optimal to use on Jupyter Notebook / Google Colab
-Download Players.csv file
-Run all cells
+
+1) Download Players.csv file
+
+2) Run all cells
 
 # Interpretation
 Displays Top 25 overall players to draft for fantasy based on stat relevancy to the position selected. (All, PG, SG, G, SF, PF, F, C)
